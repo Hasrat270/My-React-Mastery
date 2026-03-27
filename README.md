@@ -1,65 +1,40 @@
-# My React Mastery
+# My-React-Mastery
 
-Welcome to the **My React Mastery** repository! This project showcases my learning journey in mastering React, a powerful JavaScript library for building user interfaces.
+> Developed by **Hasrat** | MERN Web Developer & Web App Penetration Tester
 
-## Description
+## 📌 About
 
-In this repository, you will find various projects and exercises that demonstrate my proficiency in React. From understanding the basics to building complex applications, this repository documents the skills I have developed throughout my learning process.
+This project is part of my development journey as a MERN Web Developer and Web Application Penetration Tester.
 
-## Table of Contents
+## 🛠️ Tech Stack
 
-- [Getting Started](#getting-started)
-- [Technologies Used](#technologies-used)
-- [Learning Journey](#learning-journey)
-- [License](#license)
+- **Type:** Documentation
+- **Developer:** Hasrat270
+- **Focus:** Web Development & Security
 
-## Getting Started
+## 🚀 Getting Started
 
-To get started with the projects in this repository, follow these steps:
+```bash
+# Clone the repository
+git clone https://github.com/Hasrat270/My-React-Mastery.git
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Hasrat270/My-React-Mastery.git
-   ```
+# Navigate to project
+cd My-React-Mastery
+```
 
-2. Navigate to the project directory:
-   ```bash
-   cd My-React-Mastery
-   ```
+## 👨‍💻 About Me
 
-3. Install the dependencies:
-   ```bash
-   npm install
-   ```
+I'm Hasrat — a **MERN Web Developer** and **Web App Penetration Tester**.
 
-4. Start the development server:
-   ```bash
-   npm start
-   ```
+- 🌐 Web Development: React, Node.js, Express, MongoDB
+- 🔐 Security: Web Application Penetration Testing, Bug Bounty
+- 📚 Currently: Expanding skills in both development and cybersecurity
 
-## Technologies Used
+## 📫 Contact
 
-- React
-- JavaScript (ES6+)
-- HTML5 & CSS3
-- Node.js
-- npm
-- (any other technologies or libraries you've used)
+- **GitHub:** [Hasrat270](https://github.com/Hasrat270)
+- **Email:** hasrat3701@gmail.com
 
-## Learning Journey
+## 📄 License
 
-- Started with the basics of JavaScript and ES6 features.
-- Built my first React application: a simple to-do list.
-- Learned about component lifecycle methods and hooks.
-- Explored state management with Context API and Redux.
-- Implemented routing with React Router.
-- Created a weather app using an external API.
-- (Add any other key milestones or personal achievements)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-_Together, let's master React!_
+This project is licensed under the [MIT License](LICENSE).
